@@ -20,4 +20,5 @@ fields:
   name: twitter
   label: Twitter
 pages:
+- authors/testin.md
 - authors/asd.md
