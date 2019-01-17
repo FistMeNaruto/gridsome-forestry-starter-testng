@@ -1,8 +1,7 @@
 ---
 label: Author
 hide_body: true
-is_partial: true
-display_field: title
+is_partial: false
 fields:
 - type: text
   label: Name
