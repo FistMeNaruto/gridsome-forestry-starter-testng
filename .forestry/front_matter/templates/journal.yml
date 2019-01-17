@@ -32,4 +32,5 @@ fields:
   label: Author
   default: data/theme.json
 pages:
+- journal/testing.md
 - journal/macos-development-environment.md
